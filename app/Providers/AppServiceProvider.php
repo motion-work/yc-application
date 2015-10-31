@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace YoungChampion\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
