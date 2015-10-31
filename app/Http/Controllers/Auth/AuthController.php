@@ -2,7 +2,7 @@
 
 namespace YoungChampion\Http\Controllers\Auth;
 
-use YoungChampion\User;
+use YoungChampion\User\Models;
 use Validator;
 use YoungChampion\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
