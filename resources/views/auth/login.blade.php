@@ -17,6 +17,14 @@
             </label>
         </div>
         <button class="btn btn-lg btn-primary btn-block" type="submit">Ich möchte Nattha kennenlernen :)</button>
+
+        @if (count($errors) > 0)
+            <ul id="error" class="list-unstyled text-center" style="color: red;">
+                @foreach ($errors->all() as $error)
+                    <li>{{ $error }}</li>
+                @endforeach
+            </ul>
+        @endif
     </form>
 
 </div>

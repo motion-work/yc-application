@@ -20,6 +20,10 @@
             padding: 15px;
             margin: 0 auto;
         }
+
+        #error {
+            margin-top: 20px;
+        }
     </style>
 
 </head>

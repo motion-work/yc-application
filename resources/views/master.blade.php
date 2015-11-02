@@ -25,7 +25,7 @@
     <script src="{{asset('assets/js/respond.min.js')}}"></script>
     <![endif]-->
 
-    <script src="{{asset('assets/js/pace.min.js')}}"></script>
+{{--    <script src="{{asset('assets/js/pace.min.js')}}"></script>--}}
     <script src="{{asset('assets/js/modernizr.min.js')}}"></script>
 </head>
 <body data-spy="scroll" data-target="#nav" data-offset="80">
