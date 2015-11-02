@@ -79,15 +79,15 @@
                             <h3 class="v-heading wow fadeInDown" data-wow-duration="0.7s" data-wow-delay="0s"><i class="fa fa-paper-plane-o"></i> Absolvierte Qualiprojekte</h3>
                         </li>
                         <li>
-                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.4s" datetime="2013-04-18"><span>2005 - 2008</span></time>
+                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.4s" datetime="2013-04-18"><span>Momentan</span></time>
                             <div class="v-icon" data-toggle="collapse" data-target="#toggle-1"><i class="fa fa-minus"></i></div>
                             <div class="v-label wow fadeInRight" data-wow-duration="0.7s" data-wow-delay="0.4s">
                                 <h4><a href="#" data-toggle="collapse" data-target="#toggle-1">Ruby on Rails Entwickler bei Netnear IT</a></h4>
-                                <p id="toggle-1" class="collapse in">INI-ON-NTO-COY-NNI</p>
+                                <p id="toggle-1" class="collapse in">Safe Plattform weiterentwickeln</p>
                             </div>
                         </li>
                         <li>
-                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.4s" datetime="2013-04-18"><span>2005 - 2008</span></time>
+                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.4s" datetime="2013-04-18"><span>10. September 2015</span></time>
                             <div class="v-icon" data-toggle="collapse" data-target="#toggle-0"><i class="fa fa-plus"></i></div>
                             <div class="v-label wow fadeInRight" data-wow-duration="0.7s" data-wow-delay="0.4s">
                                 <h4><a href="#" data-toggle="collapse" data-target="#toggle-0">ICT Skills 2015</a></h4>
@@ -95,23 +95,23 @@
                             </div>
                         </li>
                         <li>
-                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.1s" datetime="2013-04-16 21:30"><span>2011 - 2013</span></time>
+                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.1s" datetime="2013-04-16 21:30"><span>Januar 2015 - Juli 2015</span></time>
                             <div class="v-icon" data-toggle="collapse" data-target="#toggle-2"><i class="fa fa-plus"></i></div>
                             <div class="v-label wow fadeInRight" data-wow-duration="0.7s" data-wow-delay="0.1s">
                                 <h4><a href="#" data-toggle="collapse" data-target="#toggle-2">PHP Entwickler bei Banking Trends & Innovation</a></h4>
-                                <p id="toggle-2" class="collapse">ENT-BAN-BAS-BDI-BTI</p>
+                                <p id="toggle-2" class="collapse">Fintech Startups Portal aufgebaut</p>
                             </div>
                         </li>
                         <li>
-                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.2s" datetime="2013-04-17"><span>2010 - 2011</span></time>
+                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.2s" datetime="2013-04-17"><span>April 2014 - Dezember 2014</span></time>
                             <div class="v-icon" data-toggle="collapse" data-target="#toggle-3"><i class="fa fa-plus"></i></div>
                             <div class="v-label wow fadeInRight" data-wow-duration="0.7s" data-wow-delay="0.2s">
                                 <h4><a href="#" data-toggle="collapse" data-target="#toggle-3">C# Entwickler bei Campaigning & Dialog Design</a></h4>
-                                <p id="toggle-3" class="collapse">SME-CMK-CAD</p>
+                                <p id="toggle-3" class="collapse">CRM Monitor betrieben und weiterwentwickelt</p>
                             </div>
                         </li>
                         <li>
-                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.2s" datetime="2013-04-17"><span>2010 - 2011</span></time>
+                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.2s" datetime="2013-04-17"><span>20./21. September 2014</span></time>
                             <div class="v-icon" data-toggle="collapse" data-target="#toggle-4"><i class="fa fa-plus"></i></div>
                             <div class="v-label wow fadeInRight" data-wow-duration="0.7s" data-wow-delay="0.2s">
                                 <h4><a href="#" data-toggle="collapse" data-target="#toggle-4">Swiss Skills Bern 2014</a></h4>
@@ -119,7 +119,7 @@
                             </div>
                         </li>
                         <li>
-                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.2s" datetime="2013-04-17"><span>2010 - 2011</span></time>
+                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.2s" datetime="2013-04-17"><span>März 2014</span></time>
                             <div class="v-icon" data-toggle="collapse" data-target="#toggle-5"><i class="fa fa-plus"></i></div>
                             <div class="v-label wow fadeInRight" data-wow-duration="0.7s" data-wow-delay="0.2s">
                                 <h4><a href="#" data-toggle="collapse" data-target="#toggle-5">Testing Next Version Of Swisscom iO</a></h4>
@@ -127,7 +127,7 @@
                             </div>
                         </li>
                         <li>
-                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.2s" datetime="2013-04-17"><span>2010 - 2011</span></time>
+                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.2s" datetime="2013-04-17"><span>12. - 14. September 2013</span></time>
                             <div class="v-icon" data-toggle="collapse" data-target="#toggle-6"><i class="fa fa-plus"></i></div>
                             <div class="v-label wow fadeInRight" data-wow-duration="0.7s" data-wow-delay="0.2s">
                                 <h4><a href="#" data-toggle="collapse" data-target="#toggle-6">Move In Christmas</a></h4>
@@ -135,7 +135,7 @@
                             </div>
                         </li>
                         <li>
-                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.2s" datetime="2013-04-17"><span>2010 - 2011</span></time>
+                            <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.2s" datetime="2013-04-17"><span>August 2013 - Februar 2014</span></time>
                             <div class="v-icon" data-toggle="collapse" data-target="#toggle-7"><i class="fa fa-plus"></i></div>
                             <div class="v-label wow fadeInRight" data-wow-duration="0.7s" data-wow-delay="0.2s">
                                 <h4><a href="#" data-toggle="collapse" data-target="#toggle-7">1st/2nd Level Support - Swisscom Service Desk</a></h4>
@@ -289,6 +289,7 @@
                         <li><i class="fa-li fa fa-child"></i>Fitness</li>
                         <li><i class="fa-li fa fa-camera"></i>Fotografie</li>
                         <li><i class="fa-li fa fa-code"></i>Webseiten realisieren</li>
+                        <li><i class="fa-li fa fa-newspaper-o"></i>Lesen (<a href="http://www.medium.com" target="_blank">Medium</a>, <a href="http://www.theverge.com" target="_blank">TheVerge</a>, <a href="http://www.golem.de" target="_blank">Golem</a>)</li>
                     </ul>
                 </div>
             </div>
@@ -328,6 +329,17 @@
                         </div>
                     </figure>
                 </li>
+                <li class="portfolio-item" data-groups='["all", "project"]' data-contenttype="ajax" data-href="assets/ajax/csharp.html">
+                    <figure>
+                        <div class="portfolio-img">
+                            <a href="#" class="overlay">
+                                <span class="title">C# Entwickler</span>
+                                <span class="category">Campaigning & Dialog Design</span>
+                            </a>
+                            <img src="{{asset('assets/img/qualiprojekte/csharp.png')}}" alt="" class="img-responsive">
+                        </div>
+                    </figure>
+                </li>
                 <li class="portfolio-item" data-groups='["all", "short-project"]' data-contenttype="ajax" data-href="assets/ajax/ict-skills.html">
                     <figure>
                         <div class="portfolio-img">
@@ -343,21 +355,10 @@
                     <figure>
                         <div class="portfolio-img">
                             <a href="#" class="overlay">
-                                <span class="title">PHP/Laravel Entwickler</span>
+                                <span class="title">PHP Entwickler</span>
                                 <span class="category">Banking Trends & Innovation</span>
                             </a>
                             <img src="{{asset('assets/img/qualiprojekte/php.jpg')}}" alt="" class="img-responsive">
-                        </div>
-                    </figure>
-                </li>
-                <li class="portfolio-item" data-groups='["all", "project"]' data-contenttype="ajax" data-href="assets/ajax/csharp.html">
-                    <figure>
-                        <div class="portfolio-img">
-                            <a href="#" class="overlay">
-                                <span class="title">C# Entwickler</span>
-                                <span class="category">Campaigning & Dialog Design</span>
-                            </a>
-                            <img src="{{asset('assets/img/qualiprojekte/csharp.jpg')}}" alt="" class="img-responsive">
                         </div>
                     </figure>
                 </li>
@@ -427,7 +428,7 @@
         </div>
     </section>
 
-    <!-- Contact -->
+    <!-- Kontakt -->
     <section id="contact" class="section">
         <div class="container">
             <div class="row">
