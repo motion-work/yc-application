@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc37d77a-f045-4c95-9b0a-0a9da87f7cf1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/background/controller.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/background/food.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/background/me1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/qualiprojekte/post1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/qualiprojekte/post2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/qualiprojekte/post3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/qualiprojekte/post4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/img/qualiprojekte/post5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/ajax/hackathon.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/background/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/background/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/background/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/img/background/4.jpeg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/js/app.js" afterPath="$PROJECT_DIR$/public/assets/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/includes/footer.blade.php" afterPath="$PROJECT_DIR$/resources/views/includes/footer.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/ajax/hackathon.html" afterPath="$PROJECT_DIR$/public/assets/ajax/hackathon.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/home/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/home/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/ajax/swiss-skills.html" afterPath="$PROJECT_DIR$/public/assets/ajax/swiss-skills.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="yc-application.iws" />
@@ -70,21 +58,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ict-skills.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/assets/ajax/ict-skills.html">
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/home/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.5714286">
+              <caret line="424" column="48" selection-start-line="424" selection-start-column="48" selection-end-line="424" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/home/index.blade.php">
+      <file leaf-file-name="give-grow.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/assets/ajax/give-grow.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-62.22222">
-              <caret line="416" column="74" selection-start-line="416" selection-start-column="74" selection-end-line="416" selection-end-column="74" />
+            <state vertical-scroll-proportion="-15.555555">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/includes/footer.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.37037">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -93,18 +91,18 @@
       <file leaf-file-name="hackathon.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/assets/ajax/hackathon.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.703703">
-              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            <state vertical-scroll-proportion="-18.666666">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/assets/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47269115">
-              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -117,13 +115,6 @@
               <caret line="1172" column="7" selection-start-line="1172" selection-start-column="7" selection-end-line="1172" selection-end-column="7" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="csharp.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/assets/img/qualiprojekte/csharp.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -158,7 +149,6 @@
         <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
         <option value="$PROJECT_DIR$/config/auth.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
-        <option value="$PROJECT_DIR$/resources/views/includes/footer.blade.php" />
         <option value="$PROJECT_DIR$/public/assets/css/app.css" />
         <option value="$PROJECT_DIR$/resources/views/includes/navigation.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
@@ -172,9 +162,11 @@
         <option value="$PROJECT_DIR$/public/assets/ajax/csharp.html" />
         <option value="$PROJECT_DIR$/resources/views/master.blade.php" />
         <option value="$PROJECT_DIR$/public/assets/ajax/swiss-skills.html" />
-        <option value="$PROJECT_DIR$/resources/views/home/index.blade.php" />
-        <option value="$PROJECT_DIR$/public/assets/ajax/hackathon.html" />
         <option value="$PROJECT_DIR$/public/assets/js/app.js" />
+        <option value="$PROJECT_DIR$/resources/views/includes/footer.blade.php" />
+        <option value="$PROJECT_DIR$/public/assets/ajax/hackathon.html" />
+        <option value="$PROJECT_DIR$/public/assets/ajax/give-grow.html" />
+        <option value="$PROJECT_DIR$/resources/views/home/index.blade.php" />
       </list>
     </option>
   </component>
@@ -597,7 +589,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="app&#9;FILE&#9;file:///Users/nattha/Development/Web/yc-application/public/assets/js/app.js&#10;app.css&#9;FILE&#9;file:///Users/nattha/Development/Web/yc-application/public/assets/css/app.css&#10;app.js&#9;FILE&#9;file:///Users/nattha/Development/Web/yc-application/public/assets/js/app.js&#10;routes.php&#9;FILE&#9;file:///Users/nattha/Development/Web/yc-application/app/Http/routes.php" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/nattha/Development/Web/yc-application/public/assets/ajax/give-grow.html&#10;app&#9;FILE&#9;file:///Users/nattha/Development/Web/yc-application/public/assets/js/app.js&#10;app.css&#9;FILE&#9;file:///Users/nattha/Development/Web/yc-application/public/assets/css/app.css&#10;app.js&#9;FILE&#9;file:///Users/nattha/Development/Web/yc-application/public/assets/js/app.js&#10;routes.php&#9;FILE&#9;file:///Users/nattha/Development/Web/yc-application/app/Http/routes.php" />
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../wuotan" />
   </component>
@@ -693,7 +685,13 @@
       <option name="project" value="LOCAL" />
       <updated>1446486545168</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Changed: Background images&#10;Added: hackathon &amp; swiss-skills portfolfio">
+      <created>1446496539934</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1446496539934</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -712,6 +710,7 @@
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2125" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294686" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294686" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -720,7 +719,6 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294686" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -750,7 +748,8 @@
     <MESSAGE value="Changed: route to home.index" />
     <MESSAGE value="Added: Projects section" />
     <MESSAGE value="Added: Content" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added: Content" />
+    <MESSAGE value="Changed: Background images&#10;Added: hackathon &amp; swiss-skills portfolfio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed: Background images&#10;Added: hackathon &amp; swiss-skills portfolfio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -948,13 +947,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/includes/footer.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-19.703703">
@@ -1074,26 +1066,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/home/index.blade.php">
+    <entry file="file://$PROJECT_DIR$/public/assets/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-62.22222">
-          <caret line="416" column="74" selection-start-line="416" selection-start-column="74" selection-end-line="416" selection-end-column="74" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/includes/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.37037">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/ajax/hackathon.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.703703">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        <state vertical-scroll-proportion="-18.666666">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/js/app.js">
+    <entry file="file://$PROJECT_DIR$/public/assets/ajax/give-grow.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47269115">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        <state vertical-scroll-proportion="-15.555555">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5714286">
+          <caret line="424" column="48" selection-start-line="424" selection-start-column="48" selection-end-line="424" selection-end-column="48" />
           <folding />
         </state>
       </provider>

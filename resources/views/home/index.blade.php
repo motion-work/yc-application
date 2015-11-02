@@ -35,8 +35,7 @@
                 </div>
                 <div class="col-sm-8 wow fadeInRight" data-wow-duration="0.7s" data-wow-delay="0s">
                     <p class="lead">
-                        Nunc eget congue dui, in venenatis elit. Nam purus urna,
-                        mollis a dolor nec, rutrum gravida tellus.
+                        Von den Dingen, die du in deinem Leben gemacht hast: Worauf bist du besonders stolz und warum?
                     </p>
                     <p>
                         Aenean purus libero, egestas sed nisl sed, posuere fermentum tortor.
@@ -46,14 +45,71 @@
                         ac placerat tortor. Quisque malesuada blandit rhoncus. Sed sit amet
                         suscipit velit. Nullam massa augue, bibendum eu dolor pretium, rutrum.
                     </p>
+                    <p class="lead">
+                        Erzähl uns eine Geschichte in einem Tweet (140 Zeichen)
+                    </p>
                     <p>
                         Sed dignissim fermentum elit. Integer placerat massa tincidunt, sodales
                         risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
                         enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
                         at dapibus lectus.
                     </p>
+                    <p class="lead">
+                        Was gelingt dir heute noch nicht, das dir irgendwann in Zukunft gelingen sollte?
+                    </p>
                     <p>
                         Sed dignissim fermentum elit. Integer placerat massa tincidunt, sodales
+                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
+                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
+                        at dapibus lectus. Ded dignissim fermentum elit. Integer placerat massa tincidunt, sodales
+                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
+                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
+                        at dapibus lectus.
+                    </p>
+                    <p class="lead">
+                        Welche Superkräfte hättest Du gerne – ausser Fliegen, Gedankenlesen und unsichtbar sein?
+                    </p>
+                    <p>
+                        Sed dignissim fermentum elit. Integer placerat massa tincidunt, sodales
+                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
+                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
+                        at dapibus lectus. Ded dignissim fermentum elit. Integer placerat massa tincidunt, sodales
+                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
+                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
+                        at dapibus lectus.
+                    </p>
+                    <p class="lead">
+                        Empfiehl uns eine Website, für die wir uns Zeit nehmen sollten, und sag warum.
+                    </p>
+                    <p>
+                        Sed dignissim fermentum elit. Integer placerat massa tincidunt, sodales
+                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
+                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
+                        at dapibus lectus. Ded dignissim fermentum elit. Integer placerat massa tincidunt, sodales
+                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
+                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
+                        at dapibus lectus.
+                    </p>
+                    <p class="lead">
+                        Welche Frage hast du an uns?
+                    </p>
+                    <p>
+                        Sed dignissim fermentum elit. Integer placerat massa tincidunt, sodales
+                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
+                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
+                        at dapibus lectus. Ded dignissim fermentum elit. Integer placerat massa tincidunt, sodales
+                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
+                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
+                        at dapibus lectus.
+                    </p>
+                    <p class="lead">
+                        Was sollten wir noch über dich wissen?
+                    </p>
+                    <p>
+                        Sed dignissim fermentum elit. Integer placerat massa tincidunt, sodales
+                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
+                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
+                        at dapibus lectus. Ded dignissim fermentum elit. Integer placerat massa tincidunt, sodales
                         risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
                         enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
                         at dapibus lectus.
@@ -352,6 +408,17 @@
                         </div>
                     </figure>
                 </li>
+                <li class="portfolio-item" data-groups='["all", "other"]' data-contenttype="ajax" data-href="assets/ajax/give-grow.html">
+                    <figure>
+                        <div class="portfolio-img">
+                            <a href="#" class="overlay">
+                                <span class="title">Give & Grow Einsatz</span>
+                                <span class="category">Freiwilliger Teilnehmer</span>
+                            </a>
+                            <img src="{{asset('assets/img/qualiprojekte/give-grow.png')}}" alt="" class="img-responsive">
+                        </div>
+                    </figure>
+                </li>
                 <li class="portfolio-item" data-groups='["all", "project"]' data-contenttype="ajax" data-href="assets/ajax/php.html">
                     <figure>
                         <div class="portfolio-img">
@@ -452,7 +519,7 @@
             <div class="row">
                 <div class="col-sm-12 wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0s">
                     <p>
-                        Bei Fragen oder Unklarheiten zögert bitte nicht mich zu konktaktieren.
+                        Bei Fragen oder Unklarheiten zögere bitte nicht mich zu konktaktieren.
                     </p>
                     <ul class="list-contacts">
                         <li><i class="fa fa-phone"></i> 079 196 46 45</li>
