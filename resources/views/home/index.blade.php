@@ -311,6 +311,7 @@
                         <li><a href="#" class="btn btn-sm btn-theme-inverse active" data-group="all">Alle</a></li>
                         <li><a href="#" class="btn btn-sm btn-theme-inverse" data-group="project">Qualiprojekte</a></li>
                         <li><a href="#" class="btn btn-sm btn-theme-inverse" data-group="short-project">Kurzprojekte</a></li>
+                        <li><a href="#" class="btn btn-sm btn-theme-inverse" data-group="other">Sonstiges</a></li>
                     </ul>
                 </div>
             </div>
@@ -406,6 +407,17 @@
                         </div>
                     </figure>
                 </li>
+                <li class="portfolio-item" data-groups='["all", "other"]' data-contenttype="ajax" data-href="assets/ajax/hackathon.html">
+                    <figure>
+                        <div class="portfolio-img">
+                            <a href="#" class="overlay">
+                                <span class="title">Postfinance Hackathon 2015</span>
+                                <span class="category">Teilnehmer</span>
+                            </a>
+                            <img src="{{asset('assets/img/qualiprojekte/post4.jpg')}}" alt="" class="img-responsive">
+                        </div>
+                    </figure>
+                </li>
 
             </ul>
         </div>
@@ -445,6 +457,7 @@
                     <ul class="list-contacts">
                         <li><i class="fa fa-phone"></i> 079 196 46 45</li>
                         <li><i class="fa fa-group"></i> GHR-DEV-NEX-R1-BE1</li>
+                        <li><i class="fa fa-graduation-cap"></i> Schultage: Dienstag, Mittwoch</li>
                         <li><i class="fa fa-map-marker"></i> Itt-Ey10<br> 3063 Ittigen</li>
                         <li><i class="fa fa-envelope"></i> <a href="mailto:natthakit.khamso@swisscom.com">natthakit.khamso@swisscom.com</a></li>
                     </ul>

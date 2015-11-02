@@ -20,8 +20,10 @@ $(function () {
 	 */
 	
 	$.backstretch([
-		"assets/img/background/4.jpeg",
 		"assets/img/background/group_checkap.jpg",
+		"assets/img/background/me1.jpg",
+		"assets/img/background/food.jpg",
+		"assets/img/background/controller.jpg",
 	], {duration: 3800, fade: 1500});
 	
 	
