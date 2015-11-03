@@ -485,7 +485,10 @@
             </div>
             <div class="row text-center wow fadeInDown" data-wow-duration="0.7s" data-wow-delay="0s">
                 <div class="col-sm-12">
-                    <iframe width="720" height="480" src="https://www.youtube.com/embed/mDotS5BDqRM" frameborder="0" allowfullscreen></iframe>
+                    <!-- 16:9 aspect ratio -->
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe src="https://www.youtube.com/embed/mDotS5BDqRM" allowfullscreen></iframe>
+                    </div>
                 </div>
             </div>
         </div>
