@@ -38,33 +38,17 @@
                         Von den Dingen, die du in deinem Leben gemacht hast: Worauf bist du besonders stolz und warum?
                     </p>
                     <p>
-                        Aenean purus libero, egestas sed nisl sed, posuere fermentum tortor.
-                        Mauris vitae orci nisl. Phasellus dapibus dapibus tincidunt. Integer
-                        nec risus blandit, scelerisque diam eget, luctus urna. In pulvinar
-                        vel arcu in pretium. Vestibulum vitae purus mi. Mauris in luctus quam,
-                        ac placerat tortor. Quisque malesuada blandit rhoncus. Sed sit amet
-                        suscipit velit. Nullam massa augue, bibendum eu dolor pretium, rutrum.
-                    </p>
-                    <p class="lead">
-                        Erzähl uns eine Geschichte in einem Tweet (140 Zeichen)
-                    </p>
-                    <p>
-                        Sed dignissim fermentum elit. Integer placerat massa tincidunt, sodales
-                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
-                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
-                        at dapibus lectus.
+                        Mein erster Kontakt mit der Informatik war etwa vor 10 Jahren als ich von meinen Eltern die erste PSP (Playstation Portable) geschenkt bekommen habe. Ich war 8 Jahre alt und ahnte noch nichts von meiner versteckten Leidenschaft.
+                        Damals hatte noch keiner in meinem Alter ein Smartphone und ein Infinity Abo gab es noch gar nicht. Eines Tages nach etwa 3 Wochen herumtüfteln, habe ich es geschafft mich mit dem Router von zu Hause zu verbinden und die Google Seite aufzurufen. Ihr glaubt nicht wie stolz ich auf mich war.
+                        Mit der Zeit fing ich an meine PSP auf riskanter Weise zu “jailbreaken”. Somit konnte man Apps wie Youtube nativ auf der PSP laufen lassen.
+                        Das zog sich weiter bis in die siebte Klasse, wo ich mein erstes Notebook bekam. In der achten Klasse mussten wir uns nach Schnupperlehren umsehen, natürlich war ich besonders neugierig auf den Beruf Informatiker. Danach als wir uns in der neunten Klasse auf eine Lehrstelle bewerben mussten, war mir klar was ich werden möchte. Jedoch klappte es nicht von Anfang an. Ich bekam aufgrund meiner durchschnittlichen Leistung in der Schule regelmässig Absagen. Meine Lehrer und Berufsberater meinten, das ich mir einen Beruf suchen soll. Doch ich wollte nicht. Somit beschloss ich das zehnte Schuljahr zu absolvieren, mit dem Willen meine Leistungen in der Schule zu verbessern. Und so war es auch. Schlussendlich hatte ich eine Wahl zwischen vier Lehrstellen.
+                        Ich bin stolz darauf, das ich nicht aufgegeben habe. Ich bin stolz darauf, das ich trotz zweifelnde Lehrer und Berufsberater meine Träume weiterhin verfolgt habe. Ich bin stolz auf meine Eltern, die mir eine PSP gekauft haben.
                     </p>
                     <p class="lead">
                         Was gelingt dir heute noch nicht, das dir irgendwann in Zukunft gelingen sollte?
                     </p>
                     <p>
-                        Sed dignissim fermentum elit. Integer placerat massa tincidunt, sodales
-                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
-                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
-                        at dapibus lectus. Ded dignissim fermentum elit. Integer placerat massa tincidunt, sodales
-                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
-                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
-                        at dapibus lectus.
+                        Ich möchte später eine IT-Firma gründen mit dem Hintergedanken, die Welt zu verändern. Doch bis ich die Welt verändern kann, sollte ich noch unbedingt meine Ausbildung beenden :) und bis es soweit ist, möglichst viel Erfahrungen sammeln. Nicht nur Arbeitserfahrung sondern auch allgemeine Lebenserfahrung. Werte die mir helfen die Welt zu verändern oder jedenfalls meinen Beitrag dazu zu leisten.
                     </p>
                     <p class="lead">
                         Welche Superkräfte hättest Du gerne – ausser Fliegen, Gedankenlesen und unsichtbar sein?
@@ -89,6 +73,13 @@
                         risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
                         enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
                         at dapibus lectus.
+                    </p>
+                    <p class="lead">
+                        Erzähl uns eine Geschichte in einem Tweet
+                    </p>
+                    <p>
+                    <blockquote class="twitter-tweet" lang="de"><p lang="de" dir="ltr">Aufstehen&gt;Arbeiten&gt;Feierabend&gt;sich seiner Leidenschaft widmen. Bekannter Tagesablauf nicht wahr? Für mich: Aufstehen&gt;Leidenschaft <a href="https://twitter.com/hashtag/swisscom?src=hash">#swisscom</a></p>&mdash; Natthakit Khamso (@NatthakitK) <a href="https://twitter.com/NatthakitK/status/661482249490165761">3. November 2015</a></blockquote>
+                    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
                     </p>
                     <p class="lead">
                         Welche Frage hast du an uns?
@@ -383,6 +374,17 @@
                                 <span class="category">Netnear IT</span>
                             </a>
                             <img src="{{asset('assets/img/qualiprojekte/ruby-on-rails.jpg')}}" alt="" class="img-responsive">
+                        </div>
+                    </figure>
+                </li>
+                <li class="portfolio-item" data-groups='["all", "short-project"]' data-contenttype="ajax" data-href="assets/ajax/optimity.html">
+                    <figure>
+                        <div class="portfolio-img">
+                            <a href="#" class="overlay">
+                                <span class="title">Austauschprogramm mit Optimity UK</span>
+                                <span class="category">Kurzprojekt</span>
+                            </a>
+                            <img src="{{asset('assets/img/qualiprojekte/optimity.png')}}" alt="" class="img-responsive">
                         </div>
                     </figure>
                 </li>
