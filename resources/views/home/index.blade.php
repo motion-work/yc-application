@@ -38,41 +38,32 @@
                         Von den Dingen, die du in deinem Leben gemacht hast: Worauf bist du besonders stolz und warum?
                     </p>
                     <p>
-                        Mein erster Kontakt mit der Informatik war etwa vor 10 Jahren als ich von meinen Eltern die erste PSP (Playstation Portable) geschenkt bekommen habe. Ich war 8 Jahre alt und ahnte noch nichts von meiner versteckten Leidenschaft.
-                        Damals hatte noch keiner in meinem Alter ein Smartphone und ein Infinity Abo gab es noch gar nicht. Eines Tages nach etwa 3 Wochen herumtüfteln, habe ich es geschafft mich mit dem Router von zu Hause zu verbinden und die Google Seite aufzurufen. Ihr glaubt nicht wie stolz ich auf mich war.
+                        Mein erster Kontakt mit der Informatik war etwa vor zehn Jahren als ich von meinen Eltern die erste PSP (Playstation Portable) geschenkt bekommen habe. Ich war acht Jahre alt und ahnte noch nichts von meiner versteckten Leidenschaft.
+                        Damals hatte noch keiner in meinem Alter ein Smartphone und ein Infinity Abo gab es noch gar nicht. Eines Tages nach etwa drei Wochen herumtüfteln, habe ich es geschafft meine PSP mit dem Router von zu Hause zu verbinden und die Google Seite aufzurufen. Das war für mich bereits eine grosse Leistung, wenn man bedenkt, das googeln nicht möglich war.
                         Mit der Zeit fing ich an meine PSP auf riskanter Weise zu “jailbreaken”. Somit konnte man Apps wie Youtube nativ auf der PSP laufen lassen.
-                        Das zog sich weiter bis in die siebte Klasse, wo ich mein erstes Notebook bekam. In der achten Klasse mussten wir uns nach Schnupperlehren umsehen, natürlich war ich besonders neugierig auf den Beruf Informatiker. Danach als wir uns in der neunten Klasse auf eine Lehrstelle bewerben mussten, war mir klar was ich werden möchte. Jedoch klappte es nicht von Anfang an. Ich bekam aufgrund meiner durchschnittlichen Leistung in der Schule regelmässig Absagen. Meine Lehrer und Berufsberater meinten, das ich mir einen Beruf suchen soll. Doch ich wollte nicht. Somit beschloss ich das zehnte Schuljahr zu absolvieren, mit dem Willen meine Leistungen in der Schule zu verbessern. Und so war es auch. Schlussendlich hatte ich eine Wahl zwischen vier Lehrstellen.
+                        Das zog sich weiter bis in die siebte Klasse, wo ich mein erstes Notebook bekam. In der achten Klasse mussten wir uns nach Schnupperlehren umsehen, natürlich war ich besonders neugierig auf den Beruf des Informatikers. In der neunten Klasse mussten wir uns auf Lehrstellen bewerben, natürlich war mir klar was ich werden möchte. Jedoch klappte es nicht von Anfang an. Ich bekam aufgrund meiner durchschnittlichen Leistung in der Schule regelmässig Absagen. Meine Lehrer und Berufsberater meinten, das ich mir einen anderen Beruf suchen soll. Doch ich wollte nicht. Somit beschloss ich das zehnte Schuljahr zu absolvieren, mit dem starken Willen meine schulischen Leistungen zu verbessern. Und so war es auch. Schlussendlich hatte ich eine Wahl zwischen vier Lehrstellen.
                         Ich bin stolz darauf, das ich nicht aufgegeben habe. Ich bin stolz darauf, das ich trotz zweifelnde Lehrer und Berufsberater meine Träume weiterhin verfolgt habe. Ich bin stolz auf meine Eltern, die mir eine PSP gekauft haben.
                     </p>
                     <p class="lead">
                         Was gelingt dir heute noch nicht, das dir irgendwann in Zukunft gelingen sollte?
                     </p>
                     <p>
-                        Ich möchte später eine IT-Firma gründen mit dem Hintergedanken, die Welt zu verändern. Doch bis ich die Welt verändern kann, sollte ich noch unbedingt meine Ausbildung beenden :) und bis es soweit ist, möglichst viel Erfahrungen sammeln. Nicht nur Arbeitserfahrung sondern auch allgemeine Lebenserfahrung. Werte die mir helfen die Welt zu verändern oder jedenfalls meinen Beitrag dazu zu leisten.
+                        Ich möchte später eine IT-Firma gründen mit dem Hintergedanken, die Welt zu verändern. Doch bis ich die Welt verändern kann, sollte ich noch unbedingt meine Ausbildung beenden :) und bis es soweit ist, möglichst viele Erfahrungen sammeln. Nicht nur Arbeitserfahrung sondern auch allgemeine Lebenserfahrung.
                     </p>
                     <p class="lead">
                         Welche Superkräfte hättest Du gerne – ausser Fliegen, Gedankenlesen und unsichtbar sein?
                     </p>
                     <p>
-                        Sed dignissim fermentum elit. Integer placerat massa tincidunt, sodales
-                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
-                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
-                        at dapibus lectus. Ded dignissim fermentum elit. Integer placerat massa tincidunt, sodales
-                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
-                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
-                        at dapibus lectus.
+                        Ich würde gerne jedem Menschen auf dieser Welt, seine wahre Leidenschaft aufzeigen können. Er oder sie sollte mir in die Augen sehen und automatisch eine Erleuchtung bekommen. “Nattha! I weiss nun wofür ich bestimmt bin” möchte ich danach hören.
                     </p>
                     <p class="lead">
                         Empfiehl uns eine Website, für die wir uns Zeit nehmen sollten, und sag warum.
                     </p>
                     <p>
-                        Sed dignissim fermentum elit. Integer placerat massa tincidunt, sodales
-                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
-                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
-                        at dapibus lectus. Ded dignissim fermentum elit. Integer placerat massa tincidunt, sodales
-                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
-                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
-                        at dapibus lectus.
+                        Laracasts ist die Webseite von Jeffrey Way. Jeffrey Way ist ein “Guru” in der PHP Programmierszene und somit sehr respektiert. Ich befasse mich schon seit längerer Zeit mit der Entwicklung von PHP-Webapplikationen und so stösst man ziemlich schnell auf ihn und seine Homepage. Auf Laracasts werden Lernvideos rundum das Thema Programmieren von Webapplikationen im Bereich PHP publiziert. Die Commnunity bzw. das Forum ist ausserordentlich gross und man bekommt stets die nötige Unterstützung. Es gibt auch einen Gruppenchat für Mitglieder, wo auch ich dabei bin. Ich habe sogar bereits mit Jeffrey höchstpersönlich geschrieben.
+                        Weiter unten habe ich ein <a href="#video">Video</a> eingebettet. Bitte schaut euch dieses Video genau an. Ihr müsst euch nicht das ganze ansehen. Die Hauptmessage wird sehr schnell deutlich. Es ist zwar keine Webseite, jedoch für mich sehr imposant.
+                        In der Informatik ist bekannterweise alles mit allem vernetzt, das bedingt jedoch auch, das jeder Informatiker vernetzt lernen muss. Eine Webapplikation beispielsweise setzt sich aus verschiedenen Programmiersprachen und Technologien zusammen und alles ist voneinander abhängig. Wenn man mal die Webapplikation erstellt hat, möchte man sie doch auch veröffentlichen oder? Also muss man sich wieder mit Serverdiensten auseinandersetzen. Was ist ein DNS? Wo hoste ich meine Webapplikation? Wo kaufe ich meine Domain? Wie verbinde ich meine gekaufte Domain mit meinem Server? Ist es ein Linux Server? Ok, wie bediene ich einen Linux Server? Was sind die grundlegenden Befehle zum navigieren? und und und… Versteht ihr was ich meine?
+                        Ich finde es überaus inspirierend, das Jeffery einen besonders grossen Wert auch Details legt. Wenn er es bereits bei den kleinen Dingen macht, stellt euch vor wie es bei den grossen ist.
                     </p>
                     <p class="lead">
                         Erzähl uns eine Geschichte in einem Tweet
@@ -85,25 +76,16 @@
                         Welche Frage hast du an uns?
                     </p>
                     <p>
-                        Sed dignissim fermentum elit. Integer placerat massa tincidunt, sodales
-                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
-                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
-                        at dapibus lectus. Ded dignissim fermentum elit. Integer placerat massa tincidunt, sodales
-                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
-                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
-                        at dapibus lectus.
+                        Wenn ihr eine Million Franken hättet. Was würdet ihr damit tun?
+                        Meiner Meinung nach gibt es kein richtig oder falsch. Jedoch sagt die Antwort auf diese Frage sehr viel über eine Person aus.
                     </p>
                     <p class="lead">
                         Was sollten wir noch über dich wissen?
                     </p>
                     <p>
-                        Sed dignissim fermentum elit. Integer placerat massa tincidunt, sodales
-                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
-                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
-                        at dapibus lectus. Ded dignissim fermentum elit. Integer placerat massa tincidunt, sodales
-                        risus id, volutpat ante. Suspendisse mattis vestibulum nibh, vel mattis
-                        enim commodo vehicula. Phasellus non lectus aliquam diam dignissim imperdiet
-                        at dapibus lectus.
+                        Ich danke euch, das ihr bis hierhin meine Bewerbung gelesen habt. Ab hier kommt noch eine Auflistung meiner bisher gemachten Erfahrungen bei Swisscom.
+                        Ich gebe zu, dass ich während dem 2. Lehrjahr nur eine durchschnittliche schulische Leistung erbracht habe. Umso mehr habe ich mich bei meiner Arbeit eingesetzt.
+                        Ich bin stets mit 100% Herzblut bei meiner Lehre dabei.
                     </p>
                 </div>
             </div>
@@ -381,8 +363,8 @@
                     <figure>
                         <div class="portfolio-img">
                             <a href="#" class="overlay">
-                                <span class="title">Austauschprogramm mit Optimity UK</span>
-                                <span class="category">Kurzprojekt</span>
+                                <span class="title">Kurzprojekt bei Optimity UK</span>
+                                <span class="category">Austauschprogramm</span>
                             </a>
                             <img src="{{asset('assets/img/qualiprojekte/optimity.png')}}" alt="" class="img-responsive">
                         </div>
@@ -521,7 +503,7 @@
             <div class="row">
                 <div class="col-sm-12 wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0s">
                     <p>
-                        Bei Fragen oder Unklarheiten zögere bitte nicht mich zu konktaktieren.
+                        Bei Fragen oder Unklarheiten zögert bitte nicht mich zu konktaktieren.
                     </p>
                     <ul class="list-contacts">
                         <li><i class="fa fa-phone"></i> 079 196 46 45</li>
