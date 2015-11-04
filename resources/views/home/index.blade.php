@@ -119,7 +119,7 @@
                             <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.4s" datetime="2013-04-18"><span>10. September 2015</span></time>
                             <div class="v-icon" data-toggle="collapse" data-target="#toggle-0"><i class="fa fa-plus"></i></div>
                             <div class="v-label wow fadeInRight" data-wow-duration="0.7s" data-wow-delay="0.4s">
-                                <h4><a href="#" data-toggle="collapse" data-target="#toggle-0">ICT Skills 2015</a></h4>
+                                <h4><a href="#" data-toggle="collapse" data-target="#toggle-0">ICT Skills 2015, Standbetreuung</a></h4>
                                 <p id="toggle-0" class="collapse">Swisscom Stand - Standbetreuung, Kurzprojekt bei Julien Hautle</p>
                             </div>
                         </li>
@@ -143,7 +143,7 @@
                             <time class="v-time wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.2s" datetime="2013-04-17"><span>20./21. September 2014</span></time>
                             <div class="v-icon" data-toggle="collapse" data-target="#toggle-4"><i class="fa fa-plus"></i></div>
                             <div class="v-label wow fadeInRight" data-wow-duration="0.7s" data-wow-delay="0.2s">
-                                <h4><a href="#" data-toggle="collapse" data-target="#toggle-4">Swiss Skills Bern 2014</a></h4>
+                                <h4><a href="#" data-toggle="collapse" data-target="#toggle-4">Swiss Skills Bern 2014, Standbetreuung</a></h4>
                                 <p id="toggle-4" class="collapse">Standbetreuung, Kurzprojekt bei Julien Hautle</p>
                             </div>
                         </li>
