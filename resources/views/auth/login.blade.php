@@ -16,7 +16,7 @@
                 <input type="checkbox" name="remember" value="remember-me"> Anmeldung merken
             </label>
         </div>
-        <button class="btn btn-lg btn-primary btn-block" type="submit">Ich möchte Nattha kennenlernen :)</button>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Nattha kennenlernen</button>
 
         @if (count($errors) > 0)
             <ul id="error" class="list-unstyled text-center" style="color: red;">
