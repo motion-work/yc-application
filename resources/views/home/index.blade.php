@@ -251,7 +251,7 @@
             </div>
             <div class="row personal-skills">
                 <div class="col-sm-8 wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay="0.1s">
-                    <h4>Languages</h4>
+                    <h4>Sprachen</h4>
                     <div class="lang-container">
                         <input type="text" value="100" class="dial"
                                data-width="100"
