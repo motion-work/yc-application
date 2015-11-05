@@ -6,7 +6,7 @@
     <meta name="description" content="Natthakit Khamso - Young Champion Bewerbung">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-    <title>Natthakit Khamso - Bewerbung YC 2016</title>
+    <title>Bewerbung YC 2016 - Natthakit Khamso</title>
 
     <!-- Stylesheets -->
     <link href="{{asset('assets/css/bootstrap.min.css')}}" rel="stylesheet">
@@ -18,8 +18,8 @@
     <link href="{{asset('assets/css/app.css')}}" rel="stylesheet">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="{{asset('assets/img/favicon/favicon.ico')}}" type="image/x-icon">
-    <link rel="icon" href="{{asset('assets/img/favicon/favicon.ico')}}" type="image/x-icon">
+{{--    <link rel="shortcut icon" href="{{asset('assets/img/favicon/favicon.ico')}}" type="image/x-icon">--}}
+{{--    <link rel="icon" href="{{asset('assets/img/favicon/favicon.ico')}}" type="image/x-icon">--}}
 
     <!-- Respond.js IE8 support of media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
